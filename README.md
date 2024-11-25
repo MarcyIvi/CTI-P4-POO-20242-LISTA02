@@ -35,8 +35,28 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 - [🤖 Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
 
 
----
+------
 
 ## 🖥️​ Linguagem Utilizada:
 - ☕ Java
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
+
+------
+## Guia Completo para Instalar o Eclipse e Iniciar sua Jornada na Programação em Java
+
+Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares para programação em Java, e te ajudar a começar a escrever seus primeiros programas em Java.
+
+1. Baixando e Instalando o Eclipse
+**Passo 1:** Acesse o site oficial do Eclipse
+- Abra o seu navegador e vá até o site oficial do Eclipse.
+- Clique em “Download 4.x” (a versão mais recente disponível).
+- O site detectará automaticamente o sistema operacional que você está usando (Windows, macOS ou Linux).
+
+**Passo 2:** Escolha a versão certa do Eclipse
+- Para programar em Java, selecione a opção Eclipse IDE for Java Developers.
+- Clique no botão "Download" e aguarde o arquivo de instalação ser baixado.
+
+**Passo 3: Instale o Eclipse**
+- Depois que o arquivo de instalação for baixado, execute o instalador.
+- Siga as instruções do assistente de instalação. O Eclipse será instalado no seu computador em um diretório escolhido por você.
+- Ao final da instalação, o Eclipse estará pronto para ser aberto.
