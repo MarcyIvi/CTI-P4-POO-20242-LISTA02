@@ -46,7 +46,8 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 
 Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares para programação em Java, e te ajudar a começar a escrever seus primeiros programas em Java.
 
-1. Baixando e Instalando o Eclipse
+**1. Baixando e Instalando o Eclipse.**
+
 **Passo 1:** Acesse o site oficial do Eclipse
 - Abra o seu navegador e vá até o site oficial do Eclipse.
 - Clique em “Download 4.x” (a versão mais recente disponível).
