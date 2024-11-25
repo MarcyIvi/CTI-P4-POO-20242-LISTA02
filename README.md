@@ -42,7 +42,7 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
 
 ------
-## Guia Completo para Instalar o Eclipse e Iniciar sua Jornada na Programação em Java
+## 📚 Guia Completo para Instalar o Eclipse e Iniciar sua Jornada na Programação em Java
 
 Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares para programação em Java, e te ajudar a começar a escrever seus primeiros programas em Java.
 
@@ -106,3 +106,17 @@ O JDK é um componente essencial para programar em Java. Ele contém todas as fe
 - Na janela central do Eclipse, você verá a estrutura da sua classe. Digite o seguinte código para imprimir "Olá, Mundo!" na tela:
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*Ws8Y7CG3pr5c5FkZ" width="auto" height="400px" alt="Hello World! em java">
+
+**Passo 4: Execute o programa.**
+- Para rodar o programa, clique com o botão direito sobre o nome da classe no painel esquerdo e selecione Run As > Java Application.
+- O Eclipse compilará e executará o programa. Você verá a saída "Olá, Mundo!" na janela Console na parte inferior da tela.
+
+**5. Próximos Passos.**
+Agora que você tem o Eclipse instalado e rodando, pode seguir para os próximos passos na sua jornada de aprendizado em Java:
+- Estude os conceitos básicos de Java: Aprenda sobre estruturas de controle (como for, while, if e else), tipos de dados e operações com variáveis.
+- Explore a documentação do Java: O Eclipse oferece uma excelente integração com a documentação do Java. Use o recurso de Auto-Completion para aprender mais sobre as bibliotecas Java.
+- Pratique resolvendo problemas de programação: A prática é essencial para melhorar suas habilidades. Comece com problemas simples e, com o tempo, enfrente desafios mais complexos.
+
+Com esses passos, você estará pronto para continuar aprendendo e explorando o mundo da programação em Java! 🌟
+
+-------
