@@ -103,4 +103,4 @@ O JDK é um componente essencial para programar em Java. Ele contém todas as fe
 **Passo 3: Escreva o código Java.**
 - Na janela central do Eclipse, você verá a estrutura da sua classe. Digite o seguinte código para imprimir "Olá, Mundo!" na tela:
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*Ws8Y7CG3pr5c5FkZ" width="auto" height="100" alt="Hello World! em java">
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*Ws8Y7CG3pr5c5FkZ" width="auto" height="500px" alt="Hello World! em java">
