@@ -53,7 +53,7 @@ Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das I
 - Clique em “Download 4.x” (a versão mais recente disponível).
 - O site detectará automaticamente o sistema operacional que você está usando (Windows, macOS ou Linux).
 
-<img src="https://logowik.com/content/uploads/images/eclipse5466.jpg" width="auto" height="400px" alt="logo eclipse">
+<img src="https://logowik.com/content/uploads/images/eclipse5466.jpg" width="auto" height="200px" alt="logo eclipse">
 
 **Passo 2:** Escolha a versão certa do Eclipse.
 - Para programar em Java, selecione a opção Eclipse IDE for Java Developers.
